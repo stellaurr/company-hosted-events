@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f4cea557c344721089b278cc05013138" label="Company Hosted Event" max_length="40" name="x_667391_compan_h_company_hosted_event" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Event name" max_length="40" name="event_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date time" max_length="40" name="date_time" type="glide_date_time"/>
+    </element>
+</database>
